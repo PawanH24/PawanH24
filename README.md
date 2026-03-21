@@ -1,13 +1,11 @@
 # 👋 Hey, I'm Pawan 👨‍💻
 
----
 
 - 👨‍💻 Full Stack Developer sharing about my journey and learning in tech
 - 💻 Studied Computer Science at Leeds Becket University
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
 
----
 
 ## 🧠 My Tech Stack
 
@@ -20,7 +18,6 @@
 
 ## 🧰 Tools
 
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,8 +25,6 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
-
----
 
 ## 🤝 Connect with Me
 
