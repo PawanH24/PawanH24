@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Pawan 👨‍💻
 
 
-- 👨‍💻 Ssharing about my journey and learning in tech
+- 👨‍💻 Sharing about my journey and learning in tech
 - 💻 Studied Computer Science at Leeds Becket University
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
